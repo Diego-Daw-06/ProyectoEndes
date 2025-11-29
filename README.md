@@ -14,5 +14,10 @@ Este proyecto servirá para aprender Git paso a paso.
     - [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
 - [Frontend]()
+    - [CSS avanzado](frontend/css-avanzado.md)
+    - [Frameworks frontend](frontend/frameworks.md)
+    - [HTML basico](frontend/html-basico.md)
+    - [JavaScript moderno](frontend/javascript-moderno.md)
+
 - [Backend]()
 - [Recursos]()
