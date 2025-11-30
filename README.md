@@ -15,4 +15,4 @@ Este proyecto servirá para aprender Git paso a paso.
 
 - [Frontend]()
 - [Backend]()
-- [Recursos]()
+- [control]()
