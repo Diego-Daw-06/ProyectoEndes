@@ -25,4 +25,4 @@ Este proyecto servirá para aprender Git paso a paso.
     - [HTML basico](backend/apis-rest.md)
     - [JavaScript moderno](backend/seguridad.md)
 
-- [Recursos]()
+- [Contribucciones]()
