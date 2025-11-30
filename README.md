@@ -24,4 +24,4 @@ Este proyecto servirá para aprender Git paso a paso.
     - [Frameworks frontend](backend/bases-de-datos.md)
     - [HTML basico](backend/apis-rest.md)
     - [JavaScript moderno](backend/seguridad.md)
-    - [Contribucciones]()
+
